@@ -1,5 +1,16 @@
 # 💫 About Me:
-Full-stack developer with expertise in building robust web applications. Proficient in HTML, CSS, JavaScript, Java, Python, SQL, MongoDB.<br><br>I am a student in BIT MESRA<br><br>I want Internship and Job in near Future
+About Me
+I'm Rishabh Gupta, a passionate Full-Stack Developer currently studying at BIT Mesra. I'm enthusiastic about creating visually appealing and user-friendly web experiences. With a strong command over HTML, CSS, and JavaScript, along with frameworks like React and Express.js, I've crafted various projects ranging from personal portfolios to dynamic web applications. I'm also well-versed in backend technologies like Node.js and databases like MongoDB and SQL, enabling me to build robust full-stack solutions. Additionally, I have a keen interest in blockchain development, with proficiency in Solidity. Currently seeking internship opportunities to further enhance my skills and contribute to impactful projects.
+
+Skills
+Languages: HTML, CSS, JavaScript, React, Java, SQL, Python, Solidity
+Frameworks/Libraries: React.js, Node.js, Express.js
+Databases: MongoDB, SQL
+Blockchain Development: Solidity
+🌐 Web Development
+📱 Front End Design
+💻 Full Stack Development
+⛓️ Blockchain Technology
 
 
 ## 🌐 Socials:
